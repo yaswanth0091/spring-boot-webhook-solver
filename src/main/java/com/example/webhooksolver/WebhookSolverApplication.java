@@ -1,4 +1,6 @@
-package com.example.webhooksolver.service;
+package com.example.webhooksolver;
+
+
 
 import com.example.webhooksolver.model.ProblemResult;
 import com.example.webhooksolver.repository.ProblemResultRepository;
